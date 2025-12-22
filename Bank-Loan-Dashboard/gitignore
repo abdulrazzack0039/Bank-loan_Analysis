@@ -1,0 +1,9 @@
+# Ignore Excel temporary / lock files
+~$*.xlsx
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
