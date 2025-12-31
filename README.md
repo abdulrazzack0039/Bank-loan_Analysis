@@ -130,8 +130,10 @@ Bank-loan_Analysis/
 │   ├── Overview_Preview.png
 ├── Bank_Loan_Report_SQL_Queries.pdf
 ├── Readme.md
+```
 
 ## ✅ Conclusion
+```
 This project demonstrates the **practical application of Excel and SQL** in banking and financial analytics, showcasing how data-driven insights improve **credit risk management and decision-making**.
 
 ---
