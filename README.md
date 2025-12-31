@@ -76,7 +76,6 @@ The analysis reflects real-world banking processes such as:
 
 ## 🧮 SQL Concepts Used
 - Aggregate Functions
-- 
 - CASE Statements  
 - Common Table Expressions (CTEs)  
 - Subqueries  
@@ -106,9 +105,31 @@ The analysis reflects real-world banking processes such as:
 - Improves loan approval decisions  
 - Enhances portfolio monitoring  
 - Aids regulatory compliance  
-- Optimizes bank profitability  
+- Optimizes bank profitability
+
+## 🖼 Dashboard Preview
+- Summary Dashboard<img width="1365" height="577" alt="Summary_preview" src="https://github.com/user-attachments/assets/786faf63-d2a4-4c99-ae9d-78375a397e09" />
+- Overview Dashboard<img width="1190" height="529" alt="Overview_Preview" src="https://github.com/user-attachments/assets/488b74f8-621a-4a9a-a264-0b1963b62ae7" />
 
 ---
+
+## 📂 Project Structure
+```
+Bank-loan_Analysis/
+├── Bank-Loan-Dashboard/
+│   └── Bank_Loan_Dashbaord.xlsx
+    └── bank_loan_dashboard_queries.sql
+    └── .gitignore
+├── Key_Insights/
+│   └── Bank_Loan_Report.pdf
+    └── Bank_Loan_Report_DK.pdf
+├── Data/
+│   └── bank_loan_data_excel.csv
+├── Screenshots/
+│   ├── Summary_preview.png
+│   ├── Overview_Preview.png
+├── Bank_Loan_Report_SQL_Queries.pdf
+├── Readme.md
 
 ## ✅ Conclusion
 This project demonstrates the **practical application of Excel and SQL** in banking and financial analytics, showcasing how data-driven insights improve **credit risk management and decision-making**.
