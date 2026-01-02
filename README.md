@@ -133,7 +133,7 @@ Bank-loan_Analysis/
 ```
 
 ## ✅ Conclusion
-```
+
 This project demonstrates the **practical application of Excel and SQL** in banking and financial analytics, showcasing how data-driven insights improve **credit risk management and decision-making**.
 
 ---
